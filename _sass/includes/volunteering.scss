@@ -1,0 +1,28 @@
+.volunteering {
+    .title {
+        @include header;
+    }
+    .volunteering-item {
+        margin-bottom: 20px;
+        .organization {
+            @include sub-header;
+            font-weight: bold;
+            .time {
+                float: right;
+                color: var(--fg-color-title-sm);
+                font-weight: 100;
+            }
+            a {
+                text-decoration: none;
+                font-weight: bold;
+                color: var(--fg-color);
+            }
+            label {
+                cursor: pointer;
+            }
+        }
+        .details {
+            @include body-text;
+        }
+    }
+}

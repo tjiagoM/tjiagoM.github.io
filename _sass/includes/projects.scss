@@ -1,0 +1,19 @@
+.projects {
+    .title {
+        @include header;
+    }
+    .project {
+        margin-bottom: 20px;
+        .project-link {
+            text-decoration: none;
+            font-weight: bold;
+            @include body-text;
+            label {
+                    cursor: pointer;
+                }
+        }
+        .details {
+            @include body-text;
+        }
+    }
+}

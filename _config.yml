@@ -1,0 +1,15 @@
+title: Tiago
+description: Tiago Azevedo
+url: https://tjiagom.github.io/
+baseurl: ''
+theme_skin: blue
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+    - jekyll-minifier
+
+exclude:
+  - docker-compose.yml
