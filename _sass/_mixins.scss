@@ -21,12 +21,16 @@
 }
 
 @mixin sub-header {
-    font-size: 16px;
+    font-size: 1.1em;
     font-weight: 700; 
     color: var(--fg-color);
 }
 
 @mixin body-text {
     color: var(--fg-color-body);
-    font-size: 14px;
+    font-size: 1em;
+}
+
+@mixin general-link {
+    color: var(--fg-color-body);
 }

@@ -3,17 +3,18 @@
         @include header;
     }
     .experience-item {
+        margin-bottom: 20px;
         .role {
             @include sub-header;
-        }
-        .company {
-            @include body-text;
-            font-weight: bold;
             .time {
                 float: right;
                 color: var(--fg-color-title-sm);
                 font-weight: 100;
             }
+        }
+        .company {
+            @include body-text;
+            font-weight: bold;
         }
         .details {
             @include body-text;
@@ -21,5 +22,8 @@
         .technologies {
             @include body-text;
         }
+    }
+    .experience-link {
+        @include general-link;
     }
 }

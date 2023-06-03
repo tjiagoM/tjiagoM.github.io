@@ -1,13 +1,17 @@
 .contact {
-    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    width: 20%;
+    margin: 10px auto;
+    min-width: 100px;
+
     .title {
         @include sub-header;
     }
     .contact-item {
-        display: flex;
-        align-items: center;
+        margin: 0 auto;
         svg {
-            width: 18px;
+            width: 20px;
             display: inline-block;
             color: var(--fg-color);
         }

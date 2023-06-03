@@ -4,5 +4,9 @@
     }
     .details {
         @include body-text;
+        font-size: 1.1em;
+        .career-link {
+            @include general-link;
+        }
     }
 }

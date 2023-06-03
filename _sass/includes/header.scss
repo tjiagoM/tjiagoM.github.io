@@ -1,9 +1,12 @@
 .header {
+    position: relative;
     width: 90%;
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
+    flex-direction: column;
     align-items: center;
+    font-size: 1.25em;
     .title {
         color: var(--fg-color-dark);
         font-weight: bolder;
@@ -17,6 +20,12 @@
     label {
         cursor: pointer;
         color: var(--fg-color-dark);
-        
+    }
+
+    label[for=switch] {
+        right: 0;
+        position: absolute;
+        z-index: 5;
+        display: block;
     }
 }

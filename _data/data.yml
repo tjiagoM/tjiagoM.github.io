@@ -1,15 +1,14 @@
-name: John Doe
-support_dark_mode: true
-fork: true
+name: Tiago Azevedo
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
+  email: tiago.azevedo@cst.cam.ac.uk
+  github: tjiagom
+  linkedin: azevedotiago
+  phone:
   gitlab: 
-  twitter: 
+  twitter:
+  scholar: 2qQRO5MAAAAJ
 
 languages:
   - idiom: English
@@ -17,13 +16,25 @@ languages:
   - idiom: French
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: PhD in Computer Science
+    time: 2016-2022
+    university: University of Cambridge, UK
+    details: |
+      Supervisor: Prof Pietro Lio' <br />
+      Thesis: Data-driven representations in brain science: modelling approaches in gene expression and neuroimaging domains
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: Master in Informatics and Computing Engineering
+    time: 2010-2015
+    university: Faculty of Engineering, University of Porto, Portugal
+    details: |
+      Grade: 19 out of 20 (first of my class) <br />
+      Thesis: From the Ground to the Cloud: Towards an Integrated Transportation Simulation Platform
+
+  - degree: Complementary Course of Flute
+    time: 2005-2012
+    university: Conservatory of Music of Gaia, Portugal
+    details: |
+      Grade: 17 out of 20
 
 skills:
   - category: Backend
@@ -41,68 +52,93 @@ skills:
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  <strong>Hi!</strong> <br />
+  I am Tiago Azevedo, a research associate at the <a class="career-link" target="_blank" href="https://www.cst.cam.ac.uk/">Department of Computer Science and Technology, at the University of Cambridge</a>. In this same department, I completed a PhD degree in computer science under the supervision of <a target="_blank"  class="career-link"  href="http://www.cl.cam.ac.uk/~pl219/">Prof Pietro Lio'</a>, where I explored applications of machine learning in neuroscientific and genetic scenarios with a focus on graph representation learning. I was previously a research scientist at <a target="_blank"  class="career-link"  href="https://www.arm.com">Arm</a>, where I worked with efficient probabilistic ML modelling and graph neural networks.<br /><br />
+
+  I broadly like to research applications of artificial intelligence in the real world, with a particular interest in the medical and biological domains. I leave some details about me in this website, but please feel free to contact me for a more detailed CV.<br /><br />
+
+  <i>(You can toggle between dark/light theme on the top right corner of the page!)</i>
+  
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Research Associate
+    time: Jan 2023 - now
+    company: University of Cambridge, UK
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Go, Angular, Typescript, C++
+      Developing AI models for histology data within <a target="_blank" class="experience-link" href="https://charm-eic.eu/">CHARM</a>, one of the first ever EIC Transition Challenges projects, funded by the EU to support moving technologies from laboratories into the real world.
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: ML Research Scientist
+    time: Mar 2021 - May 2022
+    company: Arm Ltd., UK
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      Worked individually, with the wider team, and with interns, while submitting patents, scientific papers, and involved in tech transfer with other teams. Contributed to an <a target="_blank" class="experience-link" href="https://github.com/ARM-software/fast-probabilistic-models">open-sourced framework</a> for probabilistic models.
+  - role: ML Research Intern
+    time: Jun 2020 - Aug 2020
+    company: Arm Ltd., UK
+    details: |
+      Worked with Dr Partha Maji on efficient probabilistic ML modelling for object detection
+  - role: Supervisor
+    time: Oct 2016 - May 2020
+    company: University of Cambridge, UK
+    details: |
+      Supervised Object-Oriented Programming, Databases, and Machine Learning and Real-World Data. Supervised more than 30 groups - around 70 students from 11 colleges. Supervised 4 Part II dissertations, one received a prize for highly commended dissertation.
+  - role: Research Assistant
+    time: Dec 2015 - Jul 2016
+    company: Faculty of Engineering, University of Porto, Portugal
+    details: |
+      Worked in the Artificial Intelligence and Computer Science Laboratory (LIACC). Developed models of railway quality under the In2Rail project, funded by the European Union.
+  - role: Musician
+    time: Nov 2012 - Jul 2016
+    company: Several places, Portugal
+    details: |
+      Maintained a musical activity as a flautist performer, teacher, and conductor, playing a large range of music genres.
+
 
 publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
+  - title: Identifying healthy individuals with AD neuroimaging phenotypes in the UK Biobank
+    link: "https://www.medrxiv.org/content/10.1101/2022.01.05.22268795v1"
+    authors: Tiago Azevedo et al.
+    conference: Communications Medicine, 2013 <i>[to appear]</i>
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+  - title: A deep graph neural network architecture for modelling spatio-temporal dynamics in resting-state functional MRI data
+    link: "https://doi.org/10.1016/j.media.2022.102471"
+    authors: Tiago Azevedo et al.
+    conference: Medical Image Analysis, 2022
+
+  - title: On Efficient Uncertainty Estimation for Resource-Constrained Mobile Applications
+    link: "https://arxiv.org/abs/2111.09838"
+    authors: Johanna Rock et al.
+    conference: Bayesian Deep Learning Workshop @ NeurIPS 2021
+
+  - title: Multilayer modelling and analysis of the human transcriptome
+    link: "https://www.nature.com/articles/s41540-021-00186-6"
+    authors: Tiago Azevedo et al.
+    conference: npj Systems Biology and Applicationa, 2021
+
+  - title: Towards Efficient Point Cloud GNNs Through Architectural Simplification
+    link: "https://openaccess.thecvf.com/content/ICCV2021W/DLGC/html/Tailor_Towards_Efficient_Point_Cloud_Graph_Neural_Networks_Through_Architectural_Simplification_ICCVW_2021_paper.html"
+    authors: Shyam A. Tailor et al.
+    conference: Deep Learning for Geometric Computing Workshop @ ICCV 2021 <i>[Best Student Paper]</i>
+
+  - title: Deep Learning Enables Fast and Accurate Imputation of Gene Expression
+    link: "https://www.frontiersin.org/articles/10.3389/fgene.2021.624128/full"
+    authors: Ramon Viñas et al.
+    conference: Frontiers in Genetics 2021
 
 projects:
-  - title: Cool Project 
-    link: #
+  - title: Conferences reviewer
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      ICML 23, LoG 22, NeurIPS 22, ICLR 22 (<a target="_blank" href="https://iclr.cc/Conferences/2022/Reviewers" class="project-link">highlighted <label><i class="fa fa-external-link"></i></label></a>), WACV 21/22
 
-  - title: Cool Project 
-    link: #
+  - title: Event co-organiser
+    link: https://fecn.unilurio.ac.mz/indabax/
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      The 1st IndabaX event in Mozambique. 26-28 Jul 2022 
 
 # Volunteering
 volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
+  - time: 2015/2016; 2017/2018; 2022/2023
+    company: Grão
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      9 months of intensive training sessions, fundraising activities, and regular volunteer actions in Porto, Portugal. 2 months of development work during 2016 Summer in Benguela, Angola, working with organisations in the field. During 17/18 and 22/23, held the External Relationships position and website management.

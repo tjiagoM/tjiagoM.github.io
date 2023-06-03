@@ -11,6 +11,9 @@
                     font-weight: bold;
                     @include body-text; 
                 }
+                label {
+                    cursor: pointer;
+                }
             }
             .authors {
                 @include body-text; 

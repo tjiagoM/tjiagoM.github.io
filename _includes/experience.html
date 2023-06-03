@@ -6,13 +6,15 @@
         <div class="experience-item">
             <div class="role">
                 {{exp.role}}
+                <span class="time">{{exp.time}}</span>
             </div>
             <div class="company">
-                {{exp.company}} 
-                <span class="time">{{exp.time}}</span>
+                {{exp.company}}
             </div> 
             <div class="details">{{exp.details}}</div>
-            <p class="technologies">Technologies Used: {{exp.technologies_used}}</p>
+            {% if exp.technologies_used %}
+                <p class="technologies">Technologies Used: {{exp.technologies_used}}</p>
+            {% endif %}
         </div>
        
     {% endfor %}

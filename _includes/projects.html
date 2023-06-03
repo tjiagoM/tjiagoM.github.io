@@ -1,13 +1,20 @@
 {% assign projects = site.data.data.projects %}
 {% if projects %}
 <section class="projects">
-    <h2 class="title">Projects</h2>
+    <h2 class="title">Research Community Involvement</h2>
     {% for p in projects %}
         <div class="project">
             <span>
-                <a class="project-link" href="{{p.link}}">
+                {% if p.link %}
+                <a target="_blank" class="project-link" href="{{p.link}}">
+                    {{p.title}}
+                    <label><i class="fa fa-external-link"></i></label>
+                </a>
+                {% else %}
+                <a class="project-link">
                     {{p.title}}
                 </a>
+                {% endif %}
             </span>
             <span class="details">- {{p.details}}</span>
         </div>
