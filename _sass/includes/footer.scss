@@ -1,9 +1,11 @@
-.projects {
+.footer {
     .title {
         @include header;
+        margin-top: 50px;
     }
-    .project {
+    .footer-text {
         margin-bottom: 20px;
+        @include body-text;
         .project-link {
             @include body-text;
             label {
@@ -13,5 +15,15 @@
         .details {
             @include body-text;
         }
+
+        a {
+            @include body-text;
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+    }
+    label {
+        cursor: pointer;
     }
 }

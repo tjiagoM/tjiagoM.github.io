@@ -18,6 +18,9 @@
         }
         .details {
             @include body-text;
+            label {
+                    cursor: pointer;
+                }
         }
         .technologies {
             @include body-text;
