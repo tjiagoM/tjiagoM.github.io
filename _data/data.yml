@@ -47,7 +47,11 @@ experience:
     company: University of Cambridge, UK
     details: |
       Developing AI models for histology data within <a target="_blank" class="experience-link" href="https://charm-eic.eu/">CHARM <label><i class="fa fa-external-link"></i></label></a>, one of the first ever EIC Transition Challenges projects, funded by the EU to support moving technologies from laboratories into the real world.
-  
+  - role: Application Mentor
+    time: Jul 2023 - now
+    company: Causeway Education, UK
+    details: |
+      Application Mentors provide online support to the students who face barriers to higher education. Whilst my main focus is to provide guidance and feedback on personal statements, I'm also on hand to answer questions, offer insight and provide advice throughout the university application process.
   - role: ML Research Scientist
     time: Mar 2021 - May 2022
     company: Arm Ltd., UK
@@ -77,9 +81,9 @@ experience:
 
 publications:
   - title: Identifying healthy individuals with AD neuroimaging phenotypes in the UK Biobank
-    link: "https://www.medrxiv.org/content/10.1101/2022.01.05.22268795v1"
+    link: "https://neurosciencecommunity.nature.com/posts/leveraging-ai-and-neuroimaging-to-uncover-early-signs-of-alzheimer-s-disease"
     authors: Tiago Azevedo et al.
-    conference: Communications Medicine, 2023 <i>[to appear]</i>
+    conference: Communications Medicine, 2023
 
   - title: A deep graph neural network architecture for modelling spatio-temporal dynamics in resting-state functional MRI data
     link: "https://doi.org/10.1016/j.media.2022.102471"
