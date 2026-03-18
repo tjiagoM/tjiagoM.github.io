@@ -33,7 +33,7 @@ education:
 # Profile
 profile: |
   <strong>Hi!</strong> <br />
-  I am Tiago Azevedo, a research associate at the <a class="career-link" target="_blank" href="https://www.cst.cam.ac.uk/">Department of Computer Science and Technology, at the University of Cambridge</a>, under the Sustaining Innovation Postdocs (<a target="_blank" class="experience-link" href="https://astx.com/research-development/sustaining-innovation/">SIPD</a>) programme funded by Astex Pharmaceuticals. In this same department, I completed a PhD degree in computer science under the supervision of <a target="_blank"  class="career-link"  href="http://www.cl.cam.ac.uk/~pl219/">Prof. Pietro Lio'</a>, where I explored applications of machine learning in neuroscientific and genetic scenarios with a focus on graph representation learning. I was previously a research scientist at <a target="_blank"  class="career-link"  href="https://www.arm.com">Arm</a>, where I worked with efficient probabilistic ML modelling and graph neural networks.<br /><br />
+  I am Tiago Azevedo, a research associate at the <a class="career-link" target="_blank" href="https://www.cst.cam.ac.uk/">Department of Computer Science and Technology, at the University of Cambridge</a>, under the Sustaining Innovation Postdocs (<a class="career-link" target="_blank" href="https://astx.com/research-development/sustaining-innovation/">SIPD</a>) programme funded by Astex Pharmaceuticals. In this same department, I completed a PhD degree in computer science under the supervision of <a target="_blank"  class="career-link"  href="http://www.cl.cam.ac.uk/~pl219/">Prof. Pietro Lio'</a>, where I explored applications of machine learning in neuroscientific and genetic scenarios with a focus on graph representation learning. I was previously a research scientist at <a target="_blank"  class="career-link"  href="https://www.arm.com">Arm</a>, where I worked with efficient probabilistic ML modelling and graph neural networks.<br /><br />
 
   I broadly like to research applications of artificial intelligence in the real world, with a particular interest in the medical and biological domains. I leave some details about me in this website, but please feel free to contact me for a more detailed CV.<br /><br />
 
@@ -46,7 +46,7 @@ experience:
     time: Jul 2025 - now
     company: University of Cambridge and Astex Pharmaceuticals, UK
     details: |
-      Integrating multimodal data to stratify Parkinson's patients into actionable subtypes for targeted therapeutics. Under the Sustaining Innovation Postdocs (<a target="_blank" class="experience-link" href="https://astx.com/research-development/sustaining-innovation/">SIPD <label><i class="fa fa-external-link"></i></label></a) programme funded by Astex Pharmaceuticals 
+      Integrating multimodal data to stratify Parkinson's patients into actionable subtypes for targeted therapeutics. Under the Sustaining Innovation Postdocs (<a target="_blank" class="experience-link" href="https://astx.com/research-development/sustaining-innovation/">SIPD <label><i class="fa fa-external-link"></i></label></a>) programme funded by Astex Pharmaceuticals 
   - role: Research Associate
     time: Jan 2023 - Jul 2025
     company: University of Cambridge, UK
