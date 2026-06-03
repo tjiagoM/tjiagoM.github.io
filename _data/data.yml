@@ -57,7 +57,7 @@ experience:
     company: Causeway Education, UK
     details: |
       Application Mentors provide online support to the students who face barriers to higher education. Whilst my main focus is to provide guidance and feedback on personal statements, I'm also on hand to answer questions, offer insight and provide advice throughout the university application process.
-  - role: ML Research Scientist
+  - role: Senior ML Research Scientist
     time: Mar 2021 - May 2022
     company: Arm Ltd., UK
     details: |
@@ -68,10 +68,10 @@ experience:
     details: |
       Worked with Dr Partha Maji on efficient probabilistic ML modelling for object detection.
   - role: Supervisor
-    time: Oct 2016 - May 2020
+    time: Oct 2016 - May 2020; Oct 2023 - now
     company: University of Cambridge, UK
     details: |
-      Supervised Object-Oriented Programming, Databases, and Machine Learning and Real-World Data. Supervised more than 30 groups - around 70 students from 11 colleges. Supervised 4 Part II dissertations, one received a prize for highly commended dissertation.
+      <strong>Until 2020:</strong> Supervised Object-Oriented Programming, Databases, and Machine Learning and Real-World Data. Supervised more than 30 groups - around 70 students from 11 colleges. Supervised 4 Part II dissertations, one received a prize for highly commended dissertation. <strong>Since 2023:</strong> Supervised dissertations for 6 Part II students. Co-supervised dissertations for: 4 MPhil (including from Physics), 2 overseas Masters, and 2 PhDs (including from overseas) students
   - role: Research Assistant
     time: Dec 2015 - Jul 2016
     company: Faculty of Engineering, University of Porto, Portugal
@@ -122,7 +122,7 @@ projects:
       
   - title: Conferences reviewer
     details: |
-      ICML 23/24/25, LoG 22, NeurIPS 22 (<a target="_blank" href="https://neurips.cc/Conferences/2022/ProgramCommittee" class="project-link">top reviewer <label><i class="fa fa-external-link"></i></label></a>)/23 (<a target="_blank" href="https://neurips.cc/Conferences/2023/ProgramCommittee" class="project-link">top reviewer <label><i class="fa fa-external-link"></i></label></a>)/24/25, ICLR 22 (<a target="_blank" href="https://iclr.cc/Conferences/2022/Reviewers" class="project-link">highlighted <label><i class="fa fa-external-link"></i></label></a>)/24/25, WACV 21/22, ML4H 25
+      ICML 23/24/25, LoG 22, NeurIPS 22 (<a target="_blank" href="https://neurips.cc/Conferences/2022/ProgramCommittee" class="project-link">top reviewer <label><i class="fa fa-external-link"></i></label></a>)/23 (<a target="_blank" href="https://neurips.cc/Conferences/2023/ProgramCommittee" class="project-link">top reviewer <label><i class="fa fa-external-link"></i></label></a>)/24/25, ICLR 22 (<a target="_blank" href="https://iclr.cc/Conferences/2022/Reviewers" class="project-link">highlighted <label><i class="fa fa-external-link"></i></label></a>)/24/25/26 (<a target="_blank" href="https://iclr.cc/Conferences/2026/ProgramCommittee" class="project-link">top-200 reviewer <label><i class="fa fa-external-link"></i></label></a>, WACV 21/22, ML4H 25
       
   - title: Workshops reviewer
     details: |
@@ -146,13 +146,9 @@ volunteering:
     details: |
       Humanitarian OpenStreetMap Team (HOT) is a global community that is mapping the places most vulnerable to disaster and poverty in order to support humanitarian aid and sustainable development across the world. I contribute every once in a while and my profile is <a target="_blank" href="https://tasks.hotosm.org/users/tjiagom" class="volunteer-link">here <label><i class="fa fa-external-link"></i></label></a>.
 
-  - time: 2015/2016; 2017/2018; 2022/2023
-    company: Grão
-    link: https://www.ograo.com
+  - time: 2024/2025; 2025/2026
+    company: Comissões de Cidadãos <em>(Citizens' Commissions)</em>
+    link: https://www.os230.pt/comissao-dos-cidadaos/
     details: |
-      9 months of intensive training sessions, fundraising activities, and regular volunteer actions in Porto, Portugal. 2 months of development work during 2016 Summer in Benguela, Angola, working with organisations in the field. During 17/18 and 22/23, held the External Relationships position and website management.
-  - time: Feb 2015; Feb 2016
-    company: Missão País
-    link: http://www.missaopais.pt
-    details: |
-      Together with college students, I went to a rural village in Portugal and worked with the community for one week.
+      A Portuguese participatory democracy initiative where independent citizens develop public policy proposals to be proposed to the Portuguese parliament. I served on the Committee on Education and Science, where in 24/25 I co-developed a proposal to incentivise the sharing of scientific data funded by public resources. In 25/26 I served as vice-chair of the Committee overseeing the development of 7 proposals.
+
